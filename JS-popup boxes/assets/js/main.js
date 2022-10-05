@@ -1,6 +1,6 @@
 "use strict";
 
-// //PopUp mit Hallo Welt
+// //PopUp mit Hallo Welt (global)
 // window.alert("Hallo Welt");
 
 // //Aufforderung zur Namenseingabe
@@ -9,7 +9,7 @@
 // //Im Feld steht die gewünschte Eingabe
 // window.prompt("Bitte geben Sie Ihren Namen ein", "Name");
 
-// //
+// // Bei ok wird true zurück gegeben. Bei abbrechen false
 // window.confirm("Stimmen Sie meiner Meinung zu?");
 
 // // Gibt die Eingabe in der Konsole zurück
@@ -21,6 +21,9 @@
 // let a = b * 5 - 3;
 // alert(a);
 
-let mann = "Robert Wadlow ist der größte Mann der Welt : ";
-let grosse = "2,72m";
-alert(mann + grosse);
+// let mann = "Robert Wadlow ist der größte Mann der Welt : ";
+// let grosse = "2,72m";
+// alert(mann + grosse);
+
+console.log("--------------------------------------------");
+//----------------------Testen-----------------------
